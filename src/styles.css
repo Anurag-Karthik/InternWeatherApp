@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("./assets/Poppins/Poppins-Bold.ttf");
+}
+
+@media (max-width = 390px) {
+  body {
+    height: 844px;
+    width: 390px;
+    align-items: center;
+    background: linear-gradient(117deg, #add8e6 0%, #fff 100%);
+  }
+}
+
+body {
+  height: 1024;
+  width: 1440px;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+<form id="getCityForm" (ngSubmit)="getCityWeather()">
+  <div class="form-control">
+    <input
+      type="text"
+      id="cityInput"
+      name="cityText"
+      [(ngModel)]="cityText"
+      placeholder="Enter City"
+    />
+  </div>
+  <input type="submit" value="Get Weather" id="getCityWeatherBtn" />
+</form>

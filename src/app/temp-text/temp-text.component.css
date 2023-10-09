@@ -1,0 +1,19 @@
+@media (max-width = 390px) {
+  #temparatureText {
+    color: #3f3d56;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+}
+
+#temparatureText {
+  color: #3f3d56;
+  font-family: Poppins;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
